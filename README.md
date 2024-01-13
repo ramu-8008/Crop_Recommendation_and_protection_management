@@ -80,7 +80,7 @@ The system utilizes the "[Crop Production](https://www.kaggle.com/datasets/asish
 
 2. **Crop Protection:**
    - Diagnoses plant diseases using CNN for effective management.
-     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/cb44734a-bc97-4a37-b403-31b897d544ea)
+   - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/cb44734a-bc97-4a37-b403-31b897d544ea)
 
    - Interface includes Crop Recommendation Page and Crop Protection Page.
    
