@@ -42,9 +42,9 @@ The system utilizes the "[Crop Production](https://www.kaggle.com/datasets/asish
 
 
 ## Data Preview
-### Crop Production dataset sample data
+### Sample data from Crop Production dataset 
 ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/5e271755-aa3e-416d-a8c0-298f1697fa72)
-### Crop Production dataset sample image
+### Sample image from Crop Protection dataset 
 ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/80aac0c9-3bcc-4d15-b238-9052a88f81f4)
 
 
