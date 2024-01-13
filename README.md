@@ -73,13 +73,11 @@ The system utilizes the "[Crop Production](https://www.kaggle.com/datasets/asish
 1. **Crop Recommendation:**
    - Uses 10 ML and 5 DL models for unbiased crop selection.
    - Ensemble of Diverse ML and DL models for robust recommendations.
-   - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/e8812476-aa1b-488a-ac60-f8b65ea6dcf3)
+   
    - User-friendly Streamlit platform for inputting environmental parameters.
-   - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/6e6908e0-ee6a-4f6a-9f5a-f1c84be9e762)
 
 2. **Crop Protection:**
    - Diagnoses plant diseases using CNN for effective management.
-   - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/cb44734a-bc97-4a37-b403-31b897d544ea)
 
    - Interface includes Crop Recommendation Page and Crop Protection Page.
    
