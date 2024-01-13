@@ -42,9 +42,9 @@ The system utilizes the "[Crop Production](https://www.kaggle.com/datasets/asish
 
 
 ## Data Preview
-### Crop Production dataset
+### Crop Production dataset sample data
 ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/5e271755-aa3e-416d-a8c0-298f1697fa72)
-### Crop Production dataset
+### Crop Production dataset sample image
 ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/80aac0c9-3bcc-4d15-b238-9052a88f81f4)
 
 
@@ -75,7 +75,7 @@ The system utilizes the "[Crop Production](https://www.kaggle.com/datasets/asish
    - Ensemble of Diverse ML and DL models for robust recommendations.
    - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/e8812476-aa1b-488a-ac60-f8b65ea6dcf3)
    - User-friendly Streamlit platform for inputting environmental parameters.
-   ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/6e6908e0-ee6a-4f6a-9f5a-f1c84be9e762)
+   - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/6e6908e0-ee6a-4f6a-9f5a-f1c84be9e762)
 
 2. **Crop Protection:**
    - Diagnoses plant diseases using CNN for effective management.
@@ -127,17 +127,17 @@ The system utilizes the "[Crop Production](https://www.kaggle.com/datasets/asish
    
 2. **Model Training:**
    - Trained various machine learning and deep learning models, achieving high accuracies.
-     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/082e3fd3-d8cd-4010-9955-3a706b6df89c)
+   -  ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/082e3fd3-d8cd-4010-9955-3a706b6df89c)
 
    
 3. **Disease Detection:**
    - Implemented a CNN model for identifying crop diseases with 78.69% accuracy.
-     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/a7f40ec2-7100-4c75-8012-b3086f031d47)
+   -  ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/a7f40ec2-7100-4c75-8012-b3086f031d47)
 
    
 4. **Streamlit Interface:**
    - User-friendly interface for crop recommendations and disease identification.
-     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/7a895504-ea73-4fa6-9f47-4dc284e6452d)
+   - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/7a895504-ea73-4fa6-9f47-4dc284e6452d)
 
 
 ## Outcomes / Results Obtained
