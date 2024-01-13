@@ -1,4 +1,3 @@
-# Crop_Recommendation_and_protection_management
 # Crop Recommendation And Protection Management
 
 ## Project Overview
@@ -31,7 +30,7 @@
 This project implements a comprehensive Crop Recommendation and Protection System using machine learning and deep learning techniques. The system analyzes agricultural data to provide personalized crop recommendations and aids in crop protection by detecting diseases based on user-uploaded images.
 
 ## Dataset
-The system utilizes the "Crop Production" dataset from Kaggle, containing the following key attributes:
+The system utilizes the "![Crop Production](https://www.kaggle.com/datasets/asishpandey/crop-production-in-india?select=Crop_production.csv)", "![Crop Protection](https://www.kaggle.com/datasets/emmarex/plantdisease?select=PlantVillage)" dataset from Kaggle,Crop Production dataset containing the following key attributes:
 
 - State_Name
 - N (Nitrogen content)
@@ -60,7 +59,7 @@ The system utilizes the "Crop Production" dataset from Kaggle, containing the fo
 - GradientBoosting Classifier: Accuracy (94.39%), Tuned Accuracy (94.33%)
 
 ### Machine Learning Model Accuracies
-##ML models with respective accuracies
+## ML models with respective accuracies
 ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/77d93f6e-943c-44c5-b763-1c8e4c7ae2b0)
 ##Hyperparameter tuned ML models with respective 
 ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/5bba16eb-733a-427b-aa05-60b3a84331c6)
@@ -114,7 +113,7 @@ The system utilizes the "Crop Production" dataset from Kaggle, containing the fo
 ## Proposed Methodology
 
 1. **Data Acquisition and Preprocessing:**
-   - Source data from Kaggle's Crop Production dataset.
+   - Source data from Kaggle's Crop Production and Protection dataset .
    - Encode categorical variables and standardize features.
    
 2. **Machine Learning and Deep Learning Model Training:**
@@ -132,12 +131,18 @@ The system utilizes the "Crop Production" dataset from Kaggle, containing the fo
    
 2. **Model Training:**
    - Trained various machine learning and deep learning models, achieving high accuracies.
+     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/082e3fd3-d8cd-4010-9955-3a706b6df89c)
+
    
 3. **Disease Detection:**
    - Implemented a CNN model for identifying crop diseases with 78.69% accuracy.
+     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/a7f40ec2-7100-4c75-8012-b3086f031d47)
+
    
 4. **Streamlit Interface:**
    - User-friendly interface for crop recommendations and disease identification.
+     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/7a895504-ea73-4fa6-9f47-4dc284e6452d)
+
 
 ## Outcomes / Results Obtained
 
@@ -158,9 +163,9 @@ The system utilizes the "Crop Production" dataset from Kaggle, containing the fo
      ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/9aeb81a9-f9ff-4e27-91fc-92c2c637a7c5)
    -ML models respective accuracies
      ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/85810c1b-db1b-413d-a415-626952424587)
-   -##Tuned models 
+   ## Tuned models 
      ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/0044dbeb-d346-43ea-b53b-e49551d2cf37)
-   -#ML_DL Ensemble Model predictions for a sample input.
+   ## ML_DL Ensemble Model predictions for a sample input.
    ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/49dbad9f-ffb4-4789-b72a-75e3c0cc3d95)
 
    - Disease Detection.
