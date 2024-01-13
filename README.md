@@ -155,7 +155,8 @@ The system utilizes the "[Crop Production](https://www.kaggle.com/datasets/asish
 - **Technical Achievements:**
    - High Model Accuracy.
    ## ML_DL Ensemble Model predictions for a sample input.
-   - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/49dbad9f-ffb4-4789-b72a-75e3c0cc3d95)
+   - ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/c1bdda44-c526-4330-abe2-acd9fad5696a)
+
    - Disease Detection.
 
 - **User-Centric Outcomes:**
