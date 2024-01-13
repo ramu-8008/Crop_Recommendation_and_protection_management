@@ -30,7 +30,7 @@
 This project implements a comprehensive Crop Recommendation and Protection System using machine learning and deep learning techniques. The system analyzes agricultural data to provide personalized crop recommendations and aids in crop protection by detecting diseases based on user-uploaded images.
 
 ## Dataset
-The system utilizes the "![Crop Production](https://www.kaggle.com/datasets/asishpandey/crop-production-in-india?select=Crop_production.csv)", "![Crop Protection](https://www.kaggle.com/datasets/emmarex/plantdisease?select=PlantVillage)" dataset from Kaggle,Crop Production dataset containing the following key attributes:
+The system utilizes the "![Crop Production](https://www.kaggle.com/datasets/asishpandey/crop-production-in-india?select=Crop_production.csv)", "![Crop Protection](https://www.kaggle.com/datasets/emmarex/plantdisease?select=PlantVillage)" dataset from Kaggle, Crop Production dataset containing the following key attributes:
 
 - State_Name
 - N (Nitrogen content)
@@ -43,7 +43,10 @@ The system utilizes the "![Crop Production](https://www.kaggle.com/datasets/asis
 
 
 ## Data Preview
+### Crop Production dataset
 ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/5e271755-aa3e-416d-a8c0-298f1697fa72)
+### Crop Production dataset
+![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/80aac0c9-3bcc-4d15-b238-9052a88f81f4)
 
 
 ## Machine Learning Models Used
@@ -57,12 +60,6 @@ The system utilizes the "![Crop Production](https://www.kaggle.com/datasets/asis
 - Bagging Classifier: Accuracy (94.14%), Tuned Accuracy (94.09%)
 - AdaBoost Classifier: Accuracy (29.08%), Tuned Accuracy (93.17%)
 - GradientBoosting Classifier: Accuracy (94.39%), Tuned Accuracy (94.33%)
-
-### Machine Learning Model Accuracies
-## ML models with respective accuracies
-![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/77d93f6e-943c-44c5-b763-1c8e4c7ae2b0)
-##Hyperparameter tuned ML models with respective 
-![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/5bba16eb-733a-427b-aa05-60b3a84331c6)
 
 
 ## Deep Learning Models Used
@@ -160,14 +157,8 @@ The system utilizes the "![Crop Production](https://www.kaggle.com/datasets/asis
 
 - **Technical Achievements:**
    - High Model Accuracy.
-     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/9aeb81a9-f9ff-4e27-91fc-92c2c637a7c5)
-   -ML models respective accuracies
-     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/85810c1b-db1b-413d-a415-626952424587)
-   ## Tuned models 
-     ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/0044dbeb-d346-43ea-b53b-e49551d2cf37)
    ## ML_DL Ensemble Model predictions for a sample input.
    ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/49dbad9f-ffb4-4789-b72a-75e3c0cc3d95)
-
    - Disease Detection.
 
 - **User-Centric Outcomes:**
@@ -175,7 +166,7 @@ The system utilizes the "![Crop Production](https://www.kaggle.com/datasets/asis
       ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/9bff0fe4-9b6a-41b4-8a29-2b6e636660ac)
 
 
-   - User-friendly Disease Identification.
+   - User-friendly Disease Identification and pesticide recommendation.
      ![image](https://github.com/ramu-8008/Crop_Recommendation_and_protection_management/assets/100673820/2ab192e6-e9dc-49ba-a3c6-a3b949304a1d)
 
 
