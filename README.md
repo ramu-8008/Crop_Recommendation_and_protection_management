@@ -30,7 +30,7 @@
 This project implements a comprehensive Crop Recommendation and Protection System using machine learning and deep learning techniques. The system analyzes agricultural data to provide personalized crop recommendations and aids in crop protection by detecting diseases based on user-uploaded images.
 
 ## Dataset
-The system utilizes the "![Crop Production](https://www.kaggle.com/datasets/asishpandey/crop-production-in-india?select=Crop_production.csv)", "![Crop Protection](https://www.kaggle.com/datasets/emmarex/plantdisease?select=PlantVillage)" dataset from Kaggle, Crop Production dataset containing the following key attributes:
+The system utilizes the "[Crop Production](https://www.kaggle.com/datasets/asishpandey/crop-production-in-india?select=Crop_production.csv)", "[Crop Protection](https://www.kaggle.com/datasets/emmarex/plantdisease?select=PlantVillage)" dataset from Kaggle, Crop Production dataset containing the following key attributes:
 
 - State_Name
 - N (Nitrogen content)
