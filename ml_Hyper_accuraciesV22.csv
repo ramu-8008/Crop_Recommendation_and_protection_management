@@ -1,0 +1,11 @@
+,model,hyper_accuracies
+0,LogisticRegression,0.9310465698547822
+1,SVM,0.94271407110666
+2,DecisionTreeClassifier,0.9406109163745618
+3,KNeighborsClassifier,0.9385077616424637
+4,GaussianNB,0.9339008512769154
+5,RandomForestClassifier,0.9407110665998999
+6,VotingClassifier,0.9348022033049574
+7,BaggingClassifier,0.9408612919379069
+8,AdaBoostClassifier,0.9317476214321482
+9,GradientBoostingClassifier,0.943314972458688
